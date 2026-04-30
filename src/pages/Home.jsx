@@ -63,13 +63,13 @@ export default function Home() {
 
       {/* WHY US */}
       <section className="card">
-        <h2>🌟 Why Choose MedCare?</h2>
+        <h2> Why Choose MedCare?</h2>
         <ul>
-          <li>✔ Works across India</li>
-          <li>✔ Budget-friendly healthcare discovery</li>
-          <li>✔ Simple & fast user experience</li>
-          <li>✔ Guest browsing supported</li>
-          <li>✔ Designed for scalability & startups</li>
+          <li> Works across India</li>
+          <li> Budget-friendly healthcare discovery</li>
+          <li> Simple & fast user experience</li>
+          <li> Guest browsing supported</li>
+          <li> Designed for scalability & startups</li>
         </ul>
       </section>
 
